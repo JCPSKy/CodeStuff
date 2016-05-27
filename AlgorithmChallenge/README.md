@@ -1,0 +1,1 @@
+This is a skeleton of an algorithm writing challenge we held during a code stuff meeting. One of our developers ran the challenge to talk about techniques he used to beat Google's coding challenges and score an interview at Google! 
